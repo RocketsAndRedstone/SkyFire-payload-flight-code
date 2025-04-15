@@ -1,6 +1,11 @@
 # SkyFire-payload-flight-code
-The code running on the payload of the high powered model rocket, SkyFire
-This payload is a RaspberryPi 4b with a raspberry pi cammera to record onboard footage. A PiSugar battery pack was used to provide power during the flight
+The code running on the payload of the high powered model rocket, SkyFire for the UNC Charlotte Rocketry Club
+
+This payload is a RaspberryPi 4b with a raspberry pi cammera to record onboard footage. A PiSugar battery pack was used to provide power during the flight. The reason for this unusual choice of camera as a payload was a desision that was made before I had joined the club. I had origanaly inherited this hardware to work on for the club's previous rocket but was unable to get that code to work in flight. For SkyFire's payload, we had planed on getting new hardware but was unable to aquiere for a few reasons that shall not be discussed here. This lack of new hardware nessesitated the reuse of the payload from the privious rocket, but this time with a simplified controll scrypt for the camera leading to this code base.
+
+
+
+
 
 To configure this code for your own use do the folowing:
 
